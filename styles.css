@@ -1,0 +1,70 @@
+h1 {
+
+color: tan; font-size: 69px; text-align: center; background-color: red;
+ 
+} 
+ul {
+
+border: 5px dashed;
+text-align: center;
+ list-style: none;
+padding-left: none;
+width: 50%;
+margin: auto;
+
+}
+
+ul li{
+
+border: 3px outset;
+
+}
+
+
+
+ul>li{     
+    border: 3px outset;
+} 
+
+img{ 
+display: block;
+;
+}
+
+
+
+#pretty 
+{
+width: 33%; padding-left: 0%;
+}
+ 
+
+#map { 
+width: 33%; padding-left: 67%; margin: auto;
+}
+
+
+
+#flag {
+    width: 50%; margin: auto;
+}
+
+h6{
+    font-size: xx-large; text-align: center; color: red;
+    background-color: blue;
+}
+
+h2 {
+ font-size: 55px; background-color: yellow; text-align: center; color: cornflowerblue;
+
+
+
+}
+
+h2 {
+border: 9px outset palegreen;
+
+
+}
+
+body { background-color: mediumvioletred;}
