@@ -67,4 +67,5 @@ border: 9px outset palegreen;
 
 }
 
-body { background-color: mediumvioletred;}
+body { background-color: lightblue; text-align: center; font-size: 55px;} img{display: block; color: gold;}
+#all {display: block; width: 20%; padding-left: 40%;}
